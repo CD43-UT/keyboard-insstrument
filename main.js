@@ -38,7 +38,6 @@ document.body.onkeydown = function(keypress_event){
     keyDisplay.innerHTML = key;
   }
 
-
   
 };
 
