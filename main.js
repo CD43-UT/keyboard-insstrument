@@ -38,12 +38,6 @@ document.body.onkeydown = function(keypress_event){
     keyDisplay.innerHTML = key;
   }
 
-  if (key == "roygbiv"){
-    keyDisplay.style.fontSize = "100px";
-  }
-  else {
-    keyDisplay.style.fontSize = "20px";
-  }
 
   
 };
